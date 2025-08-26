@@ -4,4 +4,4 @@
 <a href="livros/read_livro.php"> livro</a>
 <br>
 <br>
-<a href="leitores/read_leitorS.php"> leitores</a>
+<a href="leitores/read_leitor.php"> leitores</a>
